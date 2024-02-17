@@ -6,4 +6,4 @@
 
 ## А теперь самое главное - моя любимая кошка Кисточка!
 
-![](img\kistochka.jpg)
+![kistochka](https://github.com/julianaimovich/GitHubPagesHW/assets/62420959/8668f0e2-9753-4378-84c4-b5cc75d02d64)
